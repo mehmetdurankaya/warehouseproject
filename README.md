@@ -154,5 +154,4 @@
  #### Test edile bilir,
  #### Kolay anlaşılabilir,
  #### Entegre edilebilir
- #### OOP felsefesi kullanılarak tasarlanmıştır.
- #### Olumsuz senaryolar için test edilmiştir. Sistem stabil çalışmaktadır. Ders programındaki müfredata göre işlenilen tüm konular projemizde kullanılmaya çalışılmıştır.
+
