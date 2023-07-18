@@ -98,7 +98,7 @@
 
 
 
- # AMAÇ: Bu application bir proje ödevi olarak  tasarlandı. Application; 
+ # AMAÇ: 
  -   Bir depoda ürünün depoya giriş kaydının oluşturulması,
  -   Ürünün rafa yerleştirilmesi,
  -   Ürünün çıkış işlemlerinin yapılması,
